@@ -1,0 +1,1 @@
+### Analisando e plotando gráfico do fechamento diário do índice "IBOVESPA" com Yahoo Finance.
